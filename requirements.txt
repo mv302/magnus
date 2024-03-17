@@ -4,3 +4,4 @@ streamlit
 speechrecognition
 transformers
 PyAudio
+streamlit-audiorecorder
