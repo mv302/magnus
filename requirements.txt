@@ -7,3 +7,4 @@ PyAudio
 streamlit-audiorecorder
 tensorflow
 torch
+tf-keras
