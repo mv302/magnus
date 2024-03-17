@@ -3,3 +3,4 @@ plotly
 streamlit
 speechrecognition
 transformers
+PyAudio
