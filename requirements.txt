@@ -3,4 +3,4 @@ plotly
 streamlit
 speechrecognition
 transformers
-pyaudio==0.2.11
+
