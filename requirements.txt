@@ -4,4 +4,4 @@ streamlit
 speechrecognition
 transformers
 pyaudio==0.2.11
-portaudio==19.6.0
+portaudio
