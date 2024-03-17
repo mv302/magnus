@@ -5,3 +5,5 @@ speechrecognition
 transformers
 PyAudio
 streamlit-audiorecorder
+tensorflow==2.2.0
+torch
