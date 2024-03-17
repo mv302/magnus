@@ -1,5 +1,5 @@
 pandas
 plotly
 streamlit
-speech_recognition
+speechrecognition
 transformers
