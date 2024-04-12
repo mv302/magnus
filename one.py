@@ -17,7 +17,7 @@ def recognize(audio):
             st.write("Sorry, I could not understand audio.")
             exit()
 
-    pipe = pipeline("text-classification")
+    pipe = pipeline("text-classification", model="j-hartmann/emotion-english-distilroberta-base")
     result = pipe(text)[0]["label"]
     st.warning("Emotion detected")
     st.subheader(f"You spoke in :blue[{result}] tone")
