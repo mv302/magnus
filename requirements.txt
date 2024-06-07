@@ -11,4 +11,4 @@ tf-keras
 librosa
 PyWavelets
 matplotlib
-
+tensorrt
