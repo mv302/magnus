@@ -5,7 +5,7 @@ speechrecognition
 transformers
 PyAudio
 streamlit-audiorecorder
-tensorflow
+tensorflow==2.15.0
 torch
 tf-keras
 librosa
