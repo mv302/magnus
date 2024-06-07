@@ -8,6 +8,7 @@ streamlit-audiorecorder
 tensorflow
 torch
 tf-keras
+librosa
 PyWavelets
 matplotlib
 
